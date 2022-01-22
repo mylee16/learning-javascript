@@ -26,7 +26,7 @@ let var7 = 10000
 
 // storing variables in multiple lines
 let firstName = 'Lee'
-let lastName = 'Adama'
+let lastName = 'Mengyong'
 let maritalStatus = true
 let country = 'Singapore'
 let age = 33
